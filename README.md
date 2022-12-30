@@ -1,1 +1,3 @@
+# Predictive-Modelling-and-Decision-Making-Capstone-Project
+
 Project-based capstone course for the Business Data Analytics field examining major concepts and important contemporary problems in data management and analytics. Used Python, Excel and Tableau to practice skills learned in class on data preparation, analysis, and predictive modeling to improve decision- making quality. Used more than ten climate change related datasets from World Bank, IMF, and OECD and carried out a detailed data cleaning, data visualization and data analytics exercise on these datasets. The analysis helped identify key drivers behind climate change, their impacts and how remedial measures can be taken about it. All these findings were presented in class and compiled in a thorough report.
